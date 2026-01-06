@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "DREAMIN’ BOI ISSUE",
+  "base_artist": "Kohjiya",
+  "createdAt": "2026-01-06T03:33:24.543390Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DREAMIN' BOI ISSUE",
+      "artist": "Kohjiya",
+      "has_synced": false,
+      "path": "select/pl_01_DREAMIN'_BOI_ISSUE_Kohjiya.txt"
+    }
+  ]
+}
